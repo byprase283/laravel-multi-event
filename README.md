@@ -53,7 +53,7 @@ Buka terminal (bisa di VS Code atau CMD), arahkan ke folder tempat Anda ingin me
 
 2.  **Masuk ke Folder Proyek:**
     ```bash
-    cd multi-event
+    cd laravel-multi-event
     ```
 
 3.  **Install Dependensi Frontend:**
